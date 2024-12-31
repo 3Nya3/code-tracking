@@ -2,9 +2,9 @@
   "date": "2024-12-31",
   "projects": {
     "Nyah": {
-      "totalLinesAdded": 1101,
+      "totalLinesAdded": 1139,
       "totalLinesRemoved": 142,
-      "totalActiveTime": 51,
+      "totalActiveTime": 59,
       "files": {
         "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -336,6 +336,30 @@
             "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:36:33.981Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:37:12.241Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:37:39.016Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
           }
         ],
         "c:\\Users\\ShiraYuki\\Nyah\\.git\\COMMIT_EDITMSG": [
@@ -352,6 +376,16 @@
             "fileName": "c:\\Users\\ShiraYuki\\Nyah\\.git\\COMMIT_EDITMSG",
             "fileType": "unknown",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          }
+        ],
+        "c:\\Users\\ShiraYuki\\Nyah\\.vscode\\settings.json": [
+          {
+            "timestamp": "2024-12-31T13:36:37.296Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 16,
             "linesRemoved": 0,
             "projectName": "Nyah"
           }
