@@ -2,9 +2,9 @@
   "date": "2024-12-31",
   "projects": {
     "Nyah": {
-      "totalLinesAdded": 1232,
-      "totalLinesRemoved": 153,
-      "totalActiveTime": 75,
+      "totalLinesAdded": 1906,
+      "totalLinesRemoved": 787,
+      "totalActiveTime": 99,
       "files": {
         "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -478,6 +478,190 @@
             "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
             "fileType": ".tsx",
             "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:48:26.466Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:49:30.637Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:51:33.815Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:18.428Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:20.808Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:21.017Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:21.658Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:22.066Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:22.872Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:30.327Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:30.200Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:32.115Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 595,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:32.428Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 595,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:33.843Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:33.733Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:40.207Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:40.476Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:42.970Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:43.283Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:45.971Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:46.381Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:46.819Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T13:52:47.056Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "Nyah"
           }
