@@ -3,8 +3,8 @@
   "projects": {
     "Nyah": {
       "totalLinesAdded": 588,
-      "totalLinesRemoved": 86,
-      "totalActiveTime": 31,
+      "totalLinesRemoved": 113,
+      "totalActiveTime": 34,
       "files": {
         "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -207,6 +207,22 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 5,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T11:13:07.453Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T11:15:09.610Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Nyah\\apps\\home\\app\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "Nyah"
           }
         ],
