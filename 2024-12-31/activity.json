@@ -1,0 +1,30 @@
+{
+  "date": "2024-12-31",
+  "projects": {
+    "Nyah": {
+      "totalLinesAdded": 42,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json": [
+          {
+            "timestamp": "2024-12-31T09:52:44.721Z",
+            "fileName": "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          },
+          {
+            "timestamp": "2024-12-31T09:52:45.114Z",
+            "fileName": "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "Nyah"
+          }
+        ]
+      }
+    }
+  }
+}
