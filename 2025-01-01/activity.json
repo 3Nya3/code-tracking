@@ -1,0 +1,30 @@
+{
+  "date": "2025-01-01",
+  "projects": {
+    "Downloads": {
+      "totalLinesAdded": 520,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\ShiraYuki\\Downloads\\Untitled-1.js": [
+          {
+            "timestamp": "2025-01-01T13:11:53.881Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Downloads\\Untitled-1.js",
+            "fileType": ".js",
+            "linesAdded": 500,
+            "linesRemoved": 0,
+            "projectName": "Downloads"
+          },
+          {
+            "timestamp": "2025-01-01T13:11:58.431Z",
+            "fileName": "c:\\Users\\ShiraYuki\\Downloads\\Untitled-1.js",
+            "fileType": ".js",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "Downloads"
+          }
+        ]
+      }
+    }
+  }
+}
