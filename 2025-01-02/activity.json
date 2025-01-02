@@ -1,0 +1,38 @@
+{
+  "date": "2025-01-02",
+  "projects": {
+    "Mods": {
+      "totalLinesAdded": 6020,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Balatro\\Mods\\my_balatro_mods-main\\Betmma_Vouchers\\Betmma_Vouchers.lua": [
+          {
+            "timestamp": "2025-01-02T05:52:35.200Z",
+            "fileName": "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Balatro\\Mods\\my_balatro_mods-main\\Betmma_Vouchers\\Betmma_Vouchers.lua",
+            "fileType": ".lua",
+            "linesAdded": 5992,
+            "linesRemoved": 0,
+            "projectName": "Mods"
+          },
+          {
+            "timestamp": "2025-01-02T05:52:49.334Z",
+            "fileName": "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Balatro\\Mods\\my_balatro_mods-main\\Betmma_Vouchers\\Betmma_Vouchers.lua",
+            "fileType": ".lua",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "Mods"
+          },
+          {
+            "timestamp": "2025-01-02T05:53:02.813Z",
+            "fileName": "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Balatro\\Mods\\my_balatro_mods-main\\Betmma_Vouchers\\Betmma_Vouchers.lua",
+            "fileType": ".lua",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Mods"
+          }
+        ]
+      }
+    }
+  }
+}
