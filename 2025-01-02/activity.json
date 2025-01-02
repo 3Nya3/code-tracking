@@ -2,7 +2,7 @@
   "date": "2025-01-02",
   "projects": {
     "Mods": {
-      "totalLinesAdded": 14716,
+      "totalLinesAdded": 14718,
       "totalLinesRemoved": 6296,
       "totalActiveTime": 51,
       "files": {
@@ -247,6 +247,14 @@
             "fileType": ".lua",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "Mods"
+          },
+          {
+            "timestamp": "2025-01-02T06:28:08.355Z",
+            "fileName": "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Balatro\\Mods\\my_balatro_mods-main\\Betmma_Abilities\\Betmma_Abilities.lua",
+            "fileType": ".lua",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "Mods"
           }
         ]
