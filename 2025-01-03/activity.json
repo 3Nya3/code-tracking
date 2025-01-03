@@ -1,0 +1,54 @@
+{
+  "date": "2025-01-03",
+  "projects": {
+    "Mods": {
+      "totalLinesAdded": 46,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json": [
+          {
+            "timestamp": "2025-01-03T08:26:35.518Z",
+            "fileName": "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Mods"
+          },
+          {
+            "timestamp": "2025-01-03T08:26:36.225Z",
+            "fileName": "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "Mods"
+          },
+          {
+            "timestamp": "2025-01-03T08:26:41.449Z",
+            "fileName": "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Mods"
+          },
+          {
+            "timestamp": "2025-01-03T08:26:53.325Z",
+            "fileName": "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Mods"
+          },
+          {
+            "timestamp": "2025-01-03T08:26:54.012Z",
+            "fileName": "c:\\Users\\ShiraYuki\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Mods"
+          }
+        ]
+      }
+    }
+  }
+}
